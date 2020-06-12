@@ -69,7 +69,7 @@ class MainAdapter extends BaseExpandableListAdapter {
         }
 
         if (i % 2 == 0) {
-            view.setBackgroundColor(Color.parseColor("#D8AAE9"));
+            view.setBackgroundColor(Color.parseColor("#ECF0F1"));
         } else {
             view.setBackgroundColor(Color.parseColor("#FFFFFF"));
         }
@@ -90,7 +90,7 @@ class MainAdapter extends BaseExpandableListAdapter {
         }
 
         if (i % 2 == 0) {
-            view.setBackgroundColor(Color.parseColor("#D8AAE9"));
+            view.setBackgroundColor(Color.parseColor("#ECF0F1"));
         } else {
             view.setBackgroundColor(Color.parseColor("#FFFFFF"));
         }
